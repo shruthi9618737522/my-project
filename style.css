@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+#taskList li {
+    list-style-type: none;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
